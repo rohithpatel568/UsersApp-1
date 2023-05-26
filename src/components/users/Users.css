@@ -1,0 +1,13 @@
+.profile-image{
+  max-width: 300px;
+  width: 100%;
+  border-radius: 50%;
+  height: 300px;
+}
+.card{
+  background-image: url('../../images/backgroundforcards.jpeg');
+}
+.btn{
+  display: grid;
+  margin: auto;
+}

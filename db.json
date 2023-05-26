@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "Rohith",
+      "email": "rohithpatel568@gmail.com",
+      "dob": "2004-01-08",
+      "image": "https://reqres.in/img/faces/7-image.jpg",
+      "id": 1
+    },
+    {
+      "name": "Tarun Patel",
+      "email": "tarunpatel@gmail.com",
+      "dob": "2005-09-08",
+      "image": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 2
+    },
+    {
+      "name": "Sharan Kumar",
+      "email": "patelsharankumar@gmail.com",
+      "dob": "1998-06-23",
+      "image": "https://reqres.in/img/faces/9-image.jpg",
+      "id": 3
+    },
+    {
+      "name": "Sampath Kumar",
+      "email": "patelsampathkumar@gmail.com",
+      "dob": "2000-12-24",
+      "image": "https://reqres.in/img/faces/10-image.jpg",
+      "id": 4
+    }
+  ],
+  "removedUsers": []
+}
